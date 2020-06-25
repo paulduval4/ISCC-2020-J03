@@ -1,0 +1,26 @@
+h1 {           
+    color: darkslategrey; 
+}
+
+#t1{
+    color: #8B0000;
+    background-color: black;
+    opacity: 20%;  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    text-align: center;
+}
+
+#t2{
+    color: rgb(178, 34, 34);
+    font-size: 25px;
+    text-decoration: underline;
+    text-align: center;
+}
+body {      
+    background-color: aliceblue;
+}
+body {padding-left: 10%;}
+#t1 {padding: 10px 10px 10px 10px;}
+#t1 {margin: 0px 0px 0px;}
+blockquote {border-style: solid; border-width: 2px;}
